@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/dc827a8f-2921-43e9-8d24-dc5edca1679f)
 
 # AI-Powered Database Query Chatbot
-**Effortless Data Access and Insights with AI-Powered Conversations**
+### Effortless Data Access and Insights with AI-Powered Conversations
 
 ---
 
