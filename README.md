@@ -1,11 +1,10 @@
 ![image](https://github.com/user-attachments/assets/dc827a8f-2921-43e9-8d24-dc5edca1679f)
 
-# AI-Powered Database Query Chatbot
-### Effortless Data Access and Insights with AI-Powered Conversations
+## AI-Powered Database Query Chatbot: Effortless Data Access and Insights
 
----
 
-## **Table of Contents**
+
+### **Table of Contents**
 
 1. [Project Overview](#overview)
 2. [Key Features](#key-features)
@@ -19,13 +18,15 @@
 
 ---
 
-## Overview
-The **AI Database Chatbot** is an innovative project designed to transform the way users interact with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built with the aim of simplifying data retrieval processes, allowing users regardless of their technical background to access and understand complex database information effortlessly.
+### Overview
+The **AI Database Chatbot** is an innovative project designed to transform the way users interact with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built to simplify data retrieval processes, allow users regardless of their technical background to access and understand complex database information effortlessly.
 
 Traditionally, extracting insights from databases required proficiency in SQL or other querying languages. The **AI Database Chatbot** eliminates this barrier by providing a conversational interface where users can ask questions in plain English. Whether you’re a business analyst needing quick data insights or a developer testing database queries, this chatbot offers a user-friendly platform to interact with your data. The integration with Streamlit further enhances the user experience, delivering a clean, responsive, and interactive web application that can be easily deployed and accessed from any browser.
 
 
-## Key Features
+---
+
+### Key Features
 
 - **Interactive User Interface:** The chatbot provides a seamless and engaging user experience through a web-based interface developed with Streamlit. This interface is designed to be intuitive and user-friendly, allowing users to interact with the chatbot effortlessly. The UI supports various themes and is customizable to suit different user preferences.
 
@@ -37,7 +38,7 @@ Traditionally, extracting insights from databases required proficiency in SQL or
 
 ---
 
-## **Tools & Technologies**
+### **Tools & Technologies**
 
 | **Tool**      | **Purpose**                                                   | **Details**                                                                                               |
 |---------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -48,7 +49,7 @@ Traditionally, extracting insights from databases required proficiency in SQL or
 ---
 
 
-## **Folder Structure**
+### **Folder Structure**
 The project is organized as follows:
 
 ```plaintext
@@ -84,7 +85,7 @@ The project is organized as follows:
 
 ---
 
-## **Installation Guide**
+### **Installation Guide**
 Follow these steps to set up and run the AI Database Chatbot on your local machine:
 
 1. **Clone the Repository:**
@@ -104,7 +105,7 @@ Follow these steps to set up and run the AI Database Chatbot on your local machi
 
 ---
 
-## **Usage Instructions**
+### **Usage Instructions**
 After completing the installation, follow these steps to run the chatbot:
 
 1. **Run the Application:**
@@ -122,7 +123,7 @@ After completing the installation, follow these steps to run the chatbot:
 
 
 
-## **Contribution Guidelines**
+### **Contribution Guidelines**
 
 We welcome contributions from the community! Whether it's enhancing features, fixing bugs, or providing feedback, your involvement is valuable. To contribute, please follow these steps:
 
@@ -132,7 +133,7 @@ We welcome contributions from the community! Whether it's enhancing features, fi
 
 ---
 
-## **Conclusion**
+### **Conclusion**
 In today's data-driven world, accessing and interpreting vast amounts of information stored in databases can be challenging, particularly for those who are not well-versed in querying languages. The **AI Database Chatbot** was created to bridge this gap by providing an intuitive, AI-powered interface that allows users to interact with their data naturally and efficiently. By integrating advanced AI models with a robust database system like Postgres, we’ve developed a solution that democratizes data access, making it easier for users to extract meaningful insights without the need for deep technical expertise.
 
 This project has successfully demonstrated how AI can be harnessed to enhance data accessibility and user engagement. From setting up a seamless interface to ensuring accurate and context-aware responses, the **AI Database Chatbot** embodies the potential of modern technology in transforming how we interact with and understand data. This tool not only simplifies database querying but also paves the way for more innovative applications in AI-driven data analysis.
