@@ -2,8 +2,6 @@
 
 ## AI-Powered Database Query Chatbot: Effortless Data Access and Insights
 
-
-
 ### **Table of Contents**
 
 1. [Project Overview](#overview)
@@ -19,7 +17,7 @@
 ---
 
 ### Overview
-The **AI Database Chatbot** is an innovative project designed to transform the way users interact with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built to simplify data retrieval processes, allow users regardless of their technical background to access and understand complex database information effortlessly.
+The **AI Database Chatbot** is an innovative project designed to transform users' interactions with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built to simplify data retrieval processes, allowing users to access and understand complex database information effortlessly regardless of their technical background.
 
 Traditionally, extracting insights from databases required proficiency in SQL or other querying languages. The **AI Database Chatbot** eliminates this barrier by providing a conversational interface where users can ask questions in plain English. Whether you’re a business analyst needing quick data insights or a developer testing database queries, this chatbot offers a user-friendly platform to interact with your data. The integration with Streamlit further enhances the user experience, delivering a clean, responsive, and interactive web application that can be easily deployed and accessed from any browser.
 
@@ -127,7 +125,7 @@ After completing the installation, follow these steps to run the chatbot:
 
 We welcome contributions from the community! Whether it's enhancing features, fixing bugs, or providing feedback, your involvement is valuable. To contribute, please follow these steps:
 
-1. **Fork the Repository:** Click the "Fork" button at the top right of this repository to create your own copy.
+1. **Fork the Repository:** Click the "Fork" button at the top right of this repository to create your copy.
 2. **Create a New Branch:** From your forked repository, create a new branch for your feature or bug fix. Ensure your branch name is descriptive.
 3. **Submit a Pull Request:** After committing your changes to your branch, submit a pull request to the main repository. Provide a detailed description of your changes and the purpose of your pull request.
 
