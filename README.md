@@ -17,9 +17,9 @@
 ---
 
 ### Overview
-The **AI Database Chatbot** is an innovative project designed to transform users' interactions with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built to simplify data retrieval processes, allowing users to access and understand complex database information effortlessly regardless of their technical background.
+The **AI Database Chatbot** is an innovative project to transform users' interactions with relational databases. At its core, this chatbot is powered by advanced AI models from OpenAI, enabling it to understand and respond to natural language queries about data stored in a Postgres database. This project was built to simplify data retrieval processes, allowing users to access and understand complex database information effortlessly regardless of their technical background.
 
-Traditionally, extracting insights from databases required proficiency in SQL or other querying languages. The **AI Database Chatbot** eliminates this barrier by providing a conversational interface where users can ask questions in plain English. Whether you’re a business analyst needing quick data insights or a developer testing database queries, this chatbot offers a user-friendly platform to interact with your data. The integration with Streamlit further enhances the user experience, delivering a clean, responsive, and interactive web application that can be easily deployed and accessed from any browser.
+Traditionally, extracting insights from databases required proficiency in SQL or other querying languages. The **AI Database Chatbot** eliminates this barrier by providing a conversational interface where users can ask questions in plain English. Whether you’re a business analyst needing quick data insights or a developer testing database queries, this chatbot offers a user-friendly platform to interact with your data. Integrating Streamlit further enhances the user experience, delivering a clean, responsive, and interactive web application that can be easily deployed and accessed from any browser.
 
 
 ---
@@ -40,7 +40,7 @@ Traditionally, extracting insights from databases required proficiency in SQL or
 
 | **Tool**      | **Purpose**                                                   | **Details**                                                                                               |
 |---------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Streamlit** | Creates an interactive and user-friendly web-based interface. | Streamlit is a Python library that enables rapid development of web applications with minimal code. It is used here to build the chatbot’s front-end, providing an interactive and visually appealing user experience. |
+| **Streamlit** | Creates an interactive and user-friendly web-based interface. | Streamlit is a Python library that enables rapid development of web applications with minimal code. It is used here to build the chatbot’s front end, providing an interactive and visually appealing user experience. |
 | **OpenAI**    | Powers the chatbot’s intelligent and contextual responses.    | OpenAI’s models, such as GPT-4, are employed to generate responses based on user queries. These models are renowned for their ability to understand context and provide accurate, coherent answers. |
 | **Postgres**  | Hosts the relational database containing the core data.       | PostgreSQL is a powerful open-source relational database system used to store and manage the data accessed by the chatbot. It supports complex queries and transactions, ensuring reliable data management and retrieval. |
 
